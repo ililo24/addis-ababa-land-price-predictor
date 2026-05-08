@@ -1,0 +1,644 @@
+price_per_sqm,down_payment_pct,subcity,district,sqm
+93460.0,40.0,Kolfe Keranyo,3.0,214.0
+36100.0,100.0,Kolfe Keranyo,3.0,214.0
+56545.0,61.0,Kolfe Keranyo,3.0,214.0
+45800.0,100.0,Kolfe Keranyo,3.0,546.0
+51999.0,52.0,Kolfe Keranyo,3.0,546.0
+33000.0,100.0,Kolfe Keranyo,3.0,546.0
+110000.0,100.0,Kolfe Keranyo,7.0,134.0
+75000.0,100.0,Kolfe Keranyo,7.0,134.0
+56101.0,100.0,Kolfe Keranyo,7.0,134.0
+72500.0,100.0,Kolfe Keranyo,7.0,120.0
+101023.0,50.0,Kolfe Keranyo,7.0,120.0
+65600.0,100.0,Kolfe Keranyo,7.0,120.0
+51857.0,100.0,Kolfe Keranyo,3.0,106.0
+45100.0,90.0,Kolfe Keranyo,3.0,106.0
+33100.0,100.0,Kolfe Keranyo,3.0,106.0
+39125.0,100.0,Kolfe Keranyo,3.0,134.0
+37857.0,100.0,Kolfe Keranyo,3.0,134.0
+52001.0,40.0,Kolfe Keranyo,3.0,134.0
+470422.54,40.0,Kirkos,2.0,213.0
+464788.73,40.0,Kirkos,2.0,213.0
+123123.0,100.0,Kirkos,2.0,213.0
+77355.0,61.0,Yeka,10.0,518.0
+70209.99,56.0,Yeka,10.0,518.0
+28889.0,100.0,Yeka,10.0,518.0
+35488.0,90.0,Yeka,10.0,490.0
+47770.0,50.0,Yeka,10.0,490.0
+31200.0,100.0,Yeka,10.0,490.0
+55550.0,70.0,Gulele,7.0,288.0
+63885.45,40.0,Gulele,7.0,288.0
+35601.0,100.0,Gulele,7.0,288.0
+100006.0,40.0,Gulele,7.0,131.0
+45000.0,100.0,Gulele,7.0,131.0
+35500.0,100.0,Gulele,7.0,131.0
+78830.0,100.0,Bole,12.0,444.0
+107000.0,60.0,Bole,12.0,444.0
+67568.0,100.0,Bole,12.0,444.0
+181102.36,50.0,Lideta,4.0,127.0
+170500.0,52.0,Lideta,4.0,127.0
+103333.33,100.0,Lideta,4.0,127.0
+46000.0,100.0,Lideta,6.0,297.0
+51750.0,55.0,Lideta,6.0,297.0
+32000.0,100.0,Lideta,6.0,297.0
+70000.0,100.0,Lideta,10.0,199.0
+101998.99,40.0,Lideta,10.0,199.0
+33500.0,100.0,Lideta,10.0,199.0
+45600.0,75.0,Akaki Kality,4.0,406.0
+35800.0,100.0,Akaki Kality,4.0,406.0
+11200.0,100.0,Akaki Kality,4.0,406.0
+40100.0,40.0,Akaki Kality,4.0,523.0
+18150.0,100.0,Akaki Kality,4.0,523.0
+16561.0,60.0,Akaki Kality,4.0,523.0
+49500.0,100.0,Akaki Kality,1.0,194.0
+46392.0,100.0,Akaki Kality,1.0,194.0
+75000.0,41.0,Akaki Kality,1.0,194.0
+42151.0,100.0,Akaki Kality,1.0,233.0
+20150.0,100.0,Akaki Kality,1.0,233.0
+20850.0,81.0,Akaki Kality,1.0,233.0
+51777.0,41.0,Akaki Kality,1.0,231.0
+39000.0,75.0,Akaki Kality,1.0,231.0
+29000.0,100.0,Akaki Kality,1.0,231.0
+28570.0,100.0,Akaki Kality,1.0,229.0
+32164.0,51.0,Akaki Kality,1.0,229.0
+26900.0,60.0,Akaki Kality,1.0,229.0
+37001.0,100.0,Akaki Kality,1.0,282.0
+51100.0,40.0,Akaki Kality,1.0,282.0
+29000.0,100.0,Akaki Kality,1.0,282.0
+50550.0,70.0,Akaki Kality,1.0,282.0
+34230.0,100.0,Akaki Kality,1.0,282.0
+44680.85,65.08,Akaki Kality,1.0,282.0
+61490.0,60.0,Akaki Kality,1.0,235.0
+40500.0,100.0,Akaki Kality,1.0,235.0
+36421.2,100.0,Akaki Kality,1.0,235.0
+38500.0,75.0,Akaki Kality,1.0,235.0
+21800.0,100.0,Akaki Kality,1.0,235.0
+25744.4,83.0,Akaki Kality,1.0,235.0
+45700.0,40.0,Akaki Kality,1.0,235.0
+27005.0,100.0,Akaki Kality,1.0,235.0
+22100.0,100.0,Akaki Kality,1.0,235.0
+51000.0,50.0,Akaki Kality,1.0,244.0
+23800.0,100.0,Akaki Kality,1.0,244.0
+23000.0,100.0,Akaki Kality,1.0,244.0
+61990.0,40.0,Akaki Kality,1.0,245.0
+32333.0,100.0,Akaki Kality,1.0,245.0
+22200.0,100.0,Akaki Kality,1.0,245.0
+64400.0,89.0,Akaki Kality,1.0,500.0
+56099.0,100.0,Akaki Kality,1.0,500.0
+43000.0,100.0,Akaki Kality,1.0,500.0
+60400.0,95.0,Akaki Kality,1.0,500.0
+56400.0,66.0,Akaki Kality,1.0,500.0
+42000.0,100.0,Akaki Kality,1.0,500.0
+53963.0,100.0,Akaki Kality,1.0,500.0
+56300.0,93.07,Akaki Kality,1.0,500.0
+56200.0,63.0,Akaki Kality,1.0,500.0
+51999.0,100.0,Akaki Kality,1.0,500.0
+56300.0,64.0,Akaki Kality,1.0,500.0
+33689.0,100.0,Akaki Kality,1.0,500.0
+43680.0,100.0,Akaki Kality,1.0,245.0
+43265.3,77.36,Akaki Kality,1.0,245.0
+45099.0,43.0,Akaki Kality,1.0,245.0
+31199.5,100.0,Akaki Kality,1.0,246.0
+27350.0,100.0,Akaki Kality,1.0,246.0
+41275.9,46.0,Akaki Kality,1.0,246.0
+27512.0,40.0,Akaki Kality,1.0,247.0
+12999.9,70.0,Akaki Kality,1.0,247.0
+6005.0,40.0,Akaki Kality,1.0,247.0
+25505.0,100.0,Akaki Kality,1.0,247.0
+22600.0,100.0,Akaki Kality,1.0,247.0
+22500.0,70.0,Akaki Kality,1.0,247.0
+87000.0,40.0,Akaki Kality,1.0,248.0
+38450.0,100.0,Akaki Kality,1.0,248.0
+25505.0,100.0,Akaki Kality,1.0,248.0
+70000.0,42.0,Akaki Kality,1.0,250.0
+40125.0,100.0,Akaki Kality,1.0,250.0
+40100.0,100.0,Akaki Kality,1.0,250.0
+55820.28,60.0,Akaki Kality,1.0,500.0
+30200.0,100.0,Akaki Kality,1.0,500.0
+28111.0,100.0,Akaki Kality,1.0,500.0
+52200.0,78.16,Akaki Kality,1.0,500.0
+62100.0,40.0,Akaki Kality,1.0,500.0
+55930.2,50.0,Akaki Kality,1.0,500.0
+311000.0,100.0,Arada,1.0,977.0
+350000.0,50.0,Arada,1.0,977.0
+125150.0,100.0,Arada,1.0,977.0
+153847.0,100.0,Arada,1.0,650.0
+212000.0,40.0,Arada,1.0,650.0
+112000.0,100.0,Arada,1.0,650.0
+240000.0,50.0,Arada,1.0,789.0
+253500.0,40.0,Arada,1.0,789.0
+141200.0,100.0,Arada,1.0,789.0
+298511.0,51.0,Arada,1.0,723.0
+138330.0,100.0,Arada,1.0,723.0
+195024.0,40.0,Arada,1.0,723.0
+128000.0,50.0,Arada,5.0,2179.0
+100500.0,50.0,Arada,5.0,2179.0
+80000.0,60.0,Arada,5.0,2179.0
+70900.0,100.0,Arada,5.0,2064.0
+47500.0,40.0,Arada,5.0,2064.0
+43500.0,40.0,Arada,5.0,2064.0
+89963.0,100.0,Arada,5.0,1819.0
+43900.0,80.0,Arada,5.0,1819.0
+52022.0,42.0,Arada,5.0,1819.0
+125500.0,50.0,Arada,5.0,1994.0
+83000.0,100.0,Arada,5.0,1994.0
+80000.0,100.0,Arada,5.0,1994.0
+119000.0,40.0,Arada,5.0,1293.0
+52020.0,55.0,Arada,5.0,1293.0
+6003.12,40.0,Arada,5.0,1293.0
+127777.0,40.0,Arada,5.0,1273.0
+50100.0,100.0,Arada,5.0,1273.0
+40500.0,100.0,Arada,5.0,1273.0
+125927.13,50.0,Arada,5.0,729.0
+62010.0,100.0,Arada,5.0,729.0
+102656.0,40.0,Arada,5.0,729.0
+121513.0,100.0,Arada,1.0,907.0
+113456.23,100.0,Arada,1.0,907.0
+131000.0,50.0,Arada,1.0,907.0
+213000.0,40.0,Arada,1.0,1400.0
+91200.0,100.0,Arada,1.0,1400.0
+57200.0,100.0,Arada,1.0,1400.0
+264000.0,40.0,Arada,1.0,1384.0
+116000.0,100.0,Arada,1.0,1384.0
+86800.0,100.0,Arada,1.0,1384.0
+266000.0,40.0,Arada,1.0,951.0
+91600.0,100.0,Arada,1.0,951.0
+87791.69,100.0,Arada,1.0,951.0
+263000.0,40.0,Arada,1.0,942.0
+131515.0,100.0,Arada,1.0,942.0
+123422.59,100.0,Arada,1.0,942.0
+330000.0,40.0,Arada,1.0,1891.0
+325500.0,40.0,Arada,1.0,1891.0
+165900.0,100.0,Arada,1.0,1891.0
+120500.0,52.0,Arada,1.0,1174.0
+101000.0,60.0,Arada,1.0,1174.0
+100100.0,55.0,Arada,1.0,1174.0
+101000.0,40.0,Arada,1.0,1240.0
+90000.1,50.5,Arada,1.0,1240.0
+71010.0,60.0,Arada,1.0,1240.0
+102213.25,100.0,Arada,1.0,1585.0
+100100.0,50.0,Arada,1.0,1585.0
+42920.0,100.0,Arada,1.0,1585.0
+60000.0,100.0,Addis Ketema,14.0,149.0
+55155.0,100.0,Addis Ketema,14.0,149.0
+45100.0,100.0,Addis Ketema,14.0,149.0
+62300.0,60.0,Addis Ketema,14.0,174.0
+40230.5,100.0,Addis Ketema,14.0,174.0
+36000.0,50.0,Addis Ketema,14.0,174.0
+53040.0,50.0,Addis Ketema,10.0,828.0
+41153.0,50.0,Addis Ketema,10.0,828.0
+15000.0,100.0,Addis Ketema,10.0,828.0
+100000.0,80.0,Addis Ketema,14.0,162.0
+85000.0,100.0,Addis Ketema,14.0,162.0
+80150.3,100.0,Addis Ketema,14.0,162.0
+82000.0,90.0,Addis Ketema,14.0,122.0
+72100.0,100.0,Addis Ketema,14.0,122.0
+90127.0,50.0,Addis Ketema,14.0,122.0
+81053.0,100.0,Addis Ketema,14.0,137.0
+105801.0,57.0,Addis Ketema,14.0,137.0
+81000.0,85.0,Addis Ketema,14.0,137.0
+82300.0,60.0,Addis Ketema,14.0,274.0
+60221.0,100.0,Addis Ketema,14.0,274.0
+56710.0,100.0,Addis Ketema,14.0,274.0
+78677.0,100.0,Addis Ketema,14.0,132.0
+69322.12,100.0,Addis Ketema,14.0,132.0
+55555.0,100.0,Addis Ketema,14.0,132.0
+82354.12,100.0,Addis Ketema,14.0,101.0
+75010.0,100.0,Addis Ketema,14.0,101.0
+63451.0,100.0,Addis Ketema,14.0,101.0
+71019.0,100.0,Addis Ketema,14.0,127.0
+68503.94,100.0,Addis Ketema,14.0,127.0
+66556.0,100.0,Addis Ketema,14.0,127.0
+71446.28,100.0,Addis Ketema,14.0,175.0
+42857.0,100.0,Addis Ketema,14.0,175.0
+40000.0,100.0,Addis Ketema,14.0,175.0
+62710.0,100.0,Addis Ketema,14.0,197.0
+51000.0,100.0,Addis Ketema,14.0,197.0
+75000.0,42.0,Addis Ketema,14.0,197.0
+74675.32,100.0,Addis Ketema,14.0,154.0
+71000.0,100.0,Addis Ketema,14.0,154.0
+65101.0,100.0,Addis Ketema,14.0,154.0
+38100.0,100.0,Addis Ketema,14.0,173.0
+47333.0,65.0,Addis Ketema,14.0,173.0
+36119.0,100.0,Addis Ketema,14.0,173.0
+61999.0,100.0,Addis Ketema,14.0,179.0
+55101.0,100.0,Addis Ketema,14.0,179.0
+70000.0,50.0,Addis Ketema,14.0,179.0
+70101.0,50.0,Addis Ketema,14.0,264.0
+51500.0,80.0,Addis Ketema,14.0,264.0
+58836.0,50.0,Addis Ketema,14.0,264.0
+71710.0,100.0,Addis Ketema,14.0,254.0
+66758.0,100.0,Addis Ketema,14.0,254.0
+50000.0,100.0,Addis Ketema,14.0,254.0
+71556.0,100.0,Addis Ketema,14.0,118.0
+61152.0,100.0,Addis Ketema,14.0,118.0
+55200.0,100.0,Addis Ketema,14.0,118.0
+47277.47,100.0,Addis Ketema,14.0,149.0
+60402.68,60.0,Addis Ketema,14.0,149.0
+64530.0,50.0,Addis Ketema,14.0,149.0
+43551.0,100.0,Addis Ketema,14.0,126.0
+37121.0,100.0,Addis Ketema,14.0,126.0
+61777.55,40.0,Addis Ketema,14.0,126.0
+53689.0,100.0,Addis Ketema,14.0,333.0
+40500.0,100.0,Addis Ketema,14.0,333.0
+26557.51,100.0,Addis Ketema,14.0,333.0
+41916.0,100.0,Addis Ketema,14.0,148.0
+48100.0,80.0,Addis Ketema,14.0,148.0
+52000.0,41.0,Addis Ketema,14.0,148.0
+40398.0,100.0,Addis Ketema,14.0,151.0
+41000.0,40.0,Addis Ketema,14.0,151.0
+24250.0,100.0,Addis Ketema,14.0,151.0
+57212.0,40.0,Addis Ketema,14.0,139.0
+21150.0,80.0,Addis Ketema,14.0,139.0
+17520.0,40.0,Addis Ketema,14.0,139.0
+30511.0,55.0,Nefas - Silk Lafto,14.0,646.0
+12027.0,100.0,Nefas - Silk Lafto,14.0,646.0
+7692.3,40.0,Nefas - Silk Lafto,14.0,646.0
+20199.99,100.0,Nefas - Silk Lafto,14.0,908.0
+16500.0,100.0,Nefas - Silk Lafto,14.0,908.0
+19191.0,40.0,Nefas - Silk Lafto,14.0,908.0
+33062.62,100.0,Nefas - Silk Lafto,14.0,908.0
+42100.0,53.0,Nefas - Silk Lafto,14.0,908.0
+31599.0,50.0,Nefas - Silk Lafto,14.0,908.0
+30500.0,100.0,Nefas - Silk Lafto,1.0,460.0
+25675.0,100.0,Nefas - Silk Lafto,1.0,460.0
+24000.0,70.0,Nefas - Silk Lafto,1.0,460.0
+56102.0,61.0,Nefas - Silk Lafto,1.0,454.0
+51187.77,62.0,Nefas - Silk Lafto,1.0,454.0
+47100.0,72.0,Nefas - Silk Lafto,1.0,454.0
+41000.0,100.0,Nefas - Silk Lafto,1.0,460.0
+28695.65,100.0,Nefas - Silk Lafto,1.0,460.0
+28560.0,100.0,Nefas - Silk Lafto,1.0,460.0
+75169.99,80.0,Nefas - Silk Lafto,1.0,437.0
+51000.0,100.0,Nefas - Silk Lafto,1.0,437.0
+35612.0,100.0,Nefas - Silk Lafto,1.0,437.0
+31500.0,100.0,Nefas - Silk Lafto,1.0,460.0
+31304.35,100.0,Nefas - Silk Lafto,1.0,460.0
+32100.0,70.0,Nefas - Silk Lafto,1.0,460.0
+121151.0,45.0,Nefas - Silk Lafto,1.0,436.0
+66158.0,100.0,Nefas - Silk Lafto,1.0,436.0
+45872.0,100.0,Nefas - Silk Lafto,1.0,436.0
+91150.0,40.0,Nefas - Silk Lafto,1.0,460.0
+41304.5,100.0,Nefas - Silk Lafto,1.0,460.0
+63377.0,60.0,Nefas - Silk Lafto,1.0,460.0
+66168.0,100.0,Nefas - Silk Lafto,1.0,465.0
+60000.0,100.0,Nefas - Silk Lafto,1.0,465.0
+69295.19,70.0,Nefas - Silk Lafto,1.0,465.0
+73110.0,60.0,Nefas - Silk Lafto,1.0,749.0
+41617.0,100.0,Nefas - Silk Lafto,1.0,749.0
+67500.0,100.0,Nefas - Silk Lafto,1.0,310.0
+101175.0,45.0,Nefas - Silk Lafto,1.0,310.0
+55800.0,100.0,Nefas - Silk Lafto,1.0,310.0
+46015.0,100.0,Nefas - Silk Lafto,1.0,310.0
+48421.0,65.0,Nefas - Silk Lafto,1.0,310.0
+41110.0,40.0,Nefas - Silk Lafto,1.0,310.0
+69001.0,100.0,Nefas - Silk Lafto,1.0,510.0
+68900.0,100.0,Nefas - Silk Lafto,1.0,510.0
+62501.0,100.0,Nefas - Silk Lafto,1.0,510.0
+28675.0,100.0,Nefas - Silk Lafto,1.0,500.0
+25100.0,100.0,Nefas - Silk Lafto,1.0,500.0
+36100.0,40.0,Nefas - Silk Lafto,1.0,500.0
+60119.0,60.0,Nefas - Silk Lafto,1.0,507.0
+51511.0,70.0,Nefas - Silk Lafto,1.0,507.0
+55210.0,55.2,Nefas - Silk Lafto,1.0,507.0
+46666.66,95.0,Nefas - Silk Lafto,1.0,500.0
+41050.0,100.0,Nefas - Silk Lafto,1.0,500.0
+32675.0,100.0,Nefas - Silk Lafto,1.0,500.0
+46846.84,100.0,Nefas - Silk Lafto,1.0,555.0
+41000.0,100.0,Nefas - Silk Lafto,1.0,555.0
+41000.0,100.0,Nefas - Silk Lafto,1.0,555.0
+41325.0,40.0,Nefas - Silk Lafto,1.0,325.0
+22500.0,100.0,Nefas - Silk Lafto,1.0,325.0
+34859.0,40.0,Nefas - Silk Lafto,1.0,325.0
+67096.77,40.0,Nefas - Silk Lafto,1.0,465.0
+59969.99,50.0,Nefas - Silk Lafto,1.0,465.0
+30800.0,100.0,Nefas - Silk Lafto,1.0,465.0
+63777.0,70.0,Nefas - Silk Lafto,1.0,347.0
+76111.11,40.0,Nefas - Silk Lafto,1.0,347.0
+60727.0,70.0,Nefas - Silk Lafto,1.0,347.0
+81399.0,40.0,Nefas - Silk Lafto,1.0,300.0
+39566.35,100.0,Nefas - Silk Lafto,1.0,300.0
+39400.0,100.0,Nefas - Silk Lafto,1.0,300.0
+47400.0,74.0,Nefas - Silk Lafto,1.0,289.0
+55201.0,40.0,Nefas - Silk Lafto,1.0,289.0
+31000.0,100.0,Nefas - Silk Lafto,1.0,289.0
+90000.0,45.0,Nefas - Silk Lafto,1.0,362.0
+80000.0,45.0,Nefas - Silk Lafto,1.0,362.0
+81499.0,40.0,Nefas - Silk Lafto,1.0,362.0
+41800.0,100.0,Nefas - Silk Lafto,1.0,416.0
+51930.0,62.0,Nefas - Silk Lafto,1.0,416.0
+36900.0,100.0,Nefas - Silk Lafto,1.0,416.0
+70000.0,45.0,Nefas - Silk Lafto,1.0,368.0
+32611.3,100.0,Nefas - Silk Lafto,1.0,368.0
+58222.0,42.0,Nefas - Silk Lafto,1.0,368.0
+79100.0,53.1,Nefas - Silk Lafto,1.0,250.0
+50380.0,100.0,Nefas - Silk Lafto,1.0,250.0
+48914.0,100.0,Nefas - Silk Lafto,1.0,250.0
+36000.0,100.0,Nefas - Silk Lafto,1.0,250.0
+35250.0,90.0,Nefas - Silk Lafto,1.0,250.0
+40000.0,45.0,Nefas - Silk Lafto,1.0,250.0
+82127.0,50.0,Nefas - Silk Lafto,1.0,250.0
+45100.0,100.0,Nefas - Silk Lafto,1.0,250.0
+42000.0,100.0,Nefas - Silk Lafto,1.0,250.0
+48000.0,100.0,Nefas - Silk Lafto,1.0,250.0
+47328.0,70.0,Nefas - Silk Lafto,1.0,250.0
+36000.0,100.0,Nefas - Silk Lafto,1.0,250.0
+82721.0,50.0,Nefas - Silk Lafto,1.0,250.0
+37777.0,100.0,Nefas - Silk Lafto,1.0,250.0
+31000.0,100.0,Nefas - Silk Lafto,1.0,250.0
+51100.0,100.0,Nefas - Silk Lafto,1.0,250.0
+24102.0,100.0,Nefas - Silk Lafto,1.0,250.0
+40100.0,50.0,Nefas - Silk Lafto,1.0,250.0
+81001.0,50.0,Nefas - Silk Lafto,1.0,250.0
+51025.0,100.0,Nefas - Silk Lafto,1.0,250.0
+45900.0,100.0,Nefas - Silk Lafto,1.0,250.0
+45989.04,40.0,Nefas - Silk Lafto,1.0,250.0
+20170.0,100.0,Nefas - Silk Lafto,1.0,250.0
+26111.0,61.0,Nefas - Silk Lafto,1.0,250.0
+63777.0,70.0,Nefas - Silk Lafto,1.0,250.0
+35150.0,100.0,Nefas - Silk Lafto,1.0,250.0
+32101.0,100.0,Nefas - Silk Lafto,1.0,250.0
+40100.0,70.0,Nefas - Silk Lafto,1.0,250.0
+31689.0,100.0,Nefas - Silk Lafto,1.0,250.0
+38888.0,46.0,Nefas - Silk Lafto,1.0,250.0
+52250.0,80.0,Nefas - Silk Lafto,1.0,250.0
+33150.0,100.0,Nefas - Silk Lafto,1.0,250.0
+30612.0,100.0,Nefas - Silk Lafto,1.0,250.0
+61252.0,65.0,Nefas - Silk Lafto,1.0,250.0
+40100.0,100.0,Nefas - Silk Lafto,1.0,250.0
+37100.0,100.0,Nefas - Silk Lafto,1.0,250.0
+78777.0,60.0,Nefas - Silk Lafto,1.0,308.0
+53000.0,70.0,Nefas - Silk Lafto,1.0,308.0
+52498.0,68.5,Nefas - Silk Lafto,1.0,308.0
+57000.0,100.0,Nefas - Silk Lafto,1.0,406.0
+55100.0,51.0,Nefas - Silk Lafto,1.0,406.0
+26555.0,50.0,Nefas - Silk Lafto,1.0,406.0
+40101.0,100.0,Nefas - Silk Lafto,1.0,225.0
+51222.0,70.0,Nefas - Silk Lafto,1.0,225.0
+57779.0,50.0,Nefas - Silk Lafto,1.0,225.0
+70000.0,45.0,Nefas - Silk Lafto,1.0,280.0
+62255.0,55.55,Nefas - Silk Lafto,1.0,280.0
+32110.5,100.0,Nefas - Silk Lafto,1.0,280.0
+45122.0,60.0,Nefas - Silk Lafto,1.0,150.0
+41500.0,55.0,Nefas - Silk Lafto,1.0,150.0
+26750.0,100.0,Nefas - Silk Lafto,1.0,150.0
+20100.0,100.0,Nefas - Silk Lafto,1.0,150.0
+2500.0,100.0,Nefas - Silk Lafto,1.0,150.0
+2300.0,100.0,Nefas - Silk Lafto,1.0,150.0
+70585.0,60.0,Nefas - Silk Lafto,1.0,150.0
+37660.0,100.0,Nefas - Silk Lafto,1.0,150.0
+31100.0,100.0,Nefas - Silk Lafto,1.0,150.0
+62001.99,40.0,Nefas - Silk Lafto,1.0,150.0
+44880.0,73.0,Nefas - Silk Lafto,1.0,150.0
+2250.0,50.0,Nefas - Silk Lafto,1.0,150.0
+70650.0,61.0,Nefas - Silk Lafto,1.0,150.0
+45000.0,100.0,Nefas - Silk Lafto,1.0,150.0
+52551.5,65.0,Nefas - Silk Lafto,1.0,150.0
+91590.0,42.0,Nefas - Silk Lafto,1.0,150.0
+41650.0,100.0,Nefas - Silk Lafto,1.0,150.0
+62000.0,51.0,Nefas - Silk Lafto,1.0,150.0
+44115.75,100.0,Nefas - Silk Lafto,1.0,150.0
+51200.0,75.0,Nefas - Silk Lafto,1.0,150.0
+41710.0,100.0,Nefas - Silk Lafto,1.0,150.0
+50775.0,100.0,Nefas - Silk Lafto,1.0,150.0
+41857.0,100.0,Nefas - Silk Lafto,1.0,150.0
+62000.0,42.0,Nefas - Silk Lafto,1.0,150.0
+55700.0,100.0,Nefas - Silk Lafto,1.0,150.0
+27444.16,100.0,Nefas - Silk Lafto,1.0,150.0
+22222.0,100.0,Nefas - Silk Lafto,1.0,150.0
+43000.0,100.0,Nefas - Silk Lafto,1.0,150.0
+41550.0,100.0,Nefas - Silk Lafto,1.0,150.0
+47151.0,52.0,Nefas - Silk Lafto,1.0,150.0
+58000.0,100.0,Nefas - Silk Lafto,1.0,150.0
+53889.0,100.0,Nefas - Silk Lafto,1.0,150.0
+52000.0,80.0,Nefas - Silk Lafto,1.0,150.0
+58000.0,100.0,Nefas - Silk Lafto,1.0,150.0
+71000.0,70.0,Nefas - Silk Lafto,1.0,150.0
+75000.0,43.0,Nefas - Silk Lafto,1.0,150.0
+62177.0,42.0,Nefas - Silk Lafto,1.0,150.0
+33150.0,100.0,Nefas - Silk Lafto,1.0,150.0
+33100.0,100.0,Nefas - Silk Lafto,1.0,150.0
+47654.0,100.0,Nefas - Silk Lafto,1.0,150.0
+45900.0,100.0,Nefas - Silk Lafto,1.0,150.0
+63333.0,50.0,Nefas - Silk Lafto,1.0,150.0
+54971.0,100.0,Nefas - Silk Lafto,1.0,150.0
+47150.0,100.0,Nefas - Silk Lafto,1.0,150.0
+46500.0,85.0,Nefas - Silk Lafto,1.0,150.0
+45800.0,100.0,Nefas - Silk Lafto,1.0,150.0
+36016.0,100.0,Nefas - Silk Lafto,1.0,150.0
+35000.0,100.0,Nefas - Silk Lafto,1.0,150.0
+73333.0,70.0,Nefas - Silk Lafto,1.0,150.0
+47654.0,100.0,Nefas - Silk Lafto,1.0,150.0
+26600.0,100.0,Nefas - Silk Lafto,1.0,150.0
+50100.0,100.0,Nefas - Silk Lafto,1.0,181.0
+71100.5,40.0,Nefas - Silk Lafto,1.0,181.0
+42200.0,100.0,Nefas - Silk Lafto,1.0,181.0
+107000.0,40.0,Nefas - Silk Lafto,1.0,154.0
+23111.0,100.0,Nefas - Silk Lafto,1.0,154.0
+25050.0,45.5,Nefas - Silk Lafto,1.0,154.0
+70160.0,50.0,Nefas - Silk Lafto,1.0,259.0
+19500.0,100.0,Nefas - Silk Lafto,1.0,259.0
+32790.5,52.0,Nefas - Silk Lafto,1.0,259.0
+40000.0,100.0,Nefas - Silk Lafto,1.0,232.0
+30000.0,100.0,Nefas - Silk Lafto,1.0,232.0
+27000.0,100.0,Nefas - Silk Lafto,1.0,232.0
+55378.0,100.0,Nefas - Silk Lafto,1.0,150.0
+52141.0,100.0,Nefas - Silk Lafto,1.0,150.0
+70000.0,60.0,Nefas - Silk Lafto,1.0,150.0
+47100.0,100.0,Nefas - Silk Lafto,1.0,150.0
+53340.0,75.0,Nefas - Silk Lafto,1.0,150.0
+40100.0,100.0,Nefas - Silk Lafto,1.0,150.0
+47654.0,100.0,Nefas - Silk Lafto,1.0,150.0
+71521.21,40.0,Nefas - Silk Lafto,1.0,150.0
+66666.67,40.0,Nefas - Silk Lafto,1.0,150.0
+47800.0,100.0,Nefas - Silk Lafto,1.0,150.0
+47414.75,100.0,Nefas - Silk Lafto,1.0,150.0
+46510.0,100.0,Nefas - Silk Lafto,1.0,150.0
+56671.0,100.0,Nefas - Silk Lafto,1.0,150.0
+56216.0,100.0,Nefas - Silk Lafto,1.0,150.0
+53000.0,100.0,Nefas - Silk Lafto,1.0,150.0
+60000.0,55.0,Nefas - Silk Lafto,1.0,150.0
+57900.0,40.0,Nefas - Silk Lafto,1.0,150.0
+41721.99,70.0,Nefas - Silk Lafto,1.0,150.0
+111023.0,40.0,Nefas - Silk Lafto,1.0,150.0
+41500.0,100.0,Nefas - Silk Lafto,1.0,150.0
+65227.21,55.0,Nefas - Silk Lafto,1.0,150.0
+90000.0,100.0,Nefas - Silk Lafto,1.0,150.0
+76000.0,40.0,Nefas - Silk Lafto,1.0,150.0
+72100.0,42.0,Nefas - Silk Lafto,1.0,150.0
+55144.05,100.0,Nefas - Silk Lafto,1.0,150.0
+48351.44,100.0,Nefas - Silk Lafto,1.0,150.0
+45100.0,100.0,Nefas - Silk Lafto,1.0,150.0
+61150.0,100.0,Nefas - Silk Lafto,1.0,150.0
+42666.0,100.0,Nefas - Silk Lafto,1.0,150.0
+25600.0,100.0,Nefas - Silk Lafto,1.0,150.0
+46700.0,100.0,Nefas - Silk Lafto,1.0,150.0
+76522.0,40.0,Nefas - Silk Lafto,1.0,150.0
+62251.0,50.0,Nefas - Silk Lafto,1.0,150.0
+61150.0,100.0,Nefas - Silk Lafto,1.0,150.0
+47667.0,100.0,Nefas - Silk Lafto,1.0,150.0
+41300.0,100.0,Nefas - Silk Lafto,1.0,150.0
+48889.0,100.0,Nefas - Silk Lafto,1.0,150.0
+42020.0,100.0,Nefas - Silk Lafto,1.0,150.0
+31030.0,61.0,Nefas - Silk Lafto,1.0,150.0
+80000.0,40.0,Nefas - Silk Lafto,1.0,150.0
+47216.0,50.0,Nefas - Silk Lafto,1.0,150.0
+10700.0,40.0,Nefas - Silk Lafto,1.0,150.0
+50746.66,100.0,Nefas - Silk Lafto,1.0,150.0
+25000.0,100.0,Nefas - Silk Lafto,1.0,150.0
+36256.26,40.0,Nefas - Silk Lafto,1.0,150.0
+35350.0,100.0,Nefas - Silk Lafto,1.0,222.0
+46000.0,50.0,Nefas - Silk Lafto,1.0,222.0
+13500.0,100.0,Nefas - Silk Lafto,1.0,222.0
+48000.0,52.0,Nefas - Silk Lafto,1.0,276.0
+27200.0,100.0,Nefas - Silk Lafto,1.0,276.0
+22615.0,100.0,Nefas - Silk Lafto,1.0,276.0
+59889.0,100.0,Nefas - Silk Lafto,1.0,183.0
+60200.0,60.0,Nefas - Silk Lafto,1.0,183.0
+43100.0,100.0,Nefas - Silk Lafto,1.0,183.0
+61376.0,40.0,Nefas - Silk Lafto,1.0,210.0
+61113.0,40.0,Nefas - Silk Lafto,1.0,210.0
+61000.0,40.0,Nefas - Silk Lafto,1.0,210.0
+47473.33,100.0,Nefas - Silk Lafto,1.0,150.0
+76516.0,40.0,Nefas - Silk Lafto,1.0,150.0
+62515.0,40.0,Nefas - Silk Lafto,1.0,150.0
+47019.0,100.0,Nefas - Silk Lafto,1.0,150.0
+60000.0,45.0,Nefas - Silk Lafto,1.0,150.0
+26202.0,100.0,Nefas - Silk Lafto,1.0,150.0
+32515.0,100.0,Nefas - Silk Lafto,1.0,150.0
+48700.0,40.0,Nefas - Silk Lafto,1.0,150.0
+48666.0,40.0,Nefas - Silk Lafto,1.0,150.0
+51020.0,100.0,Nefas - Silk Lafto,1.0,150.0
+50100.0,80.0,Nefas - Silk Lafto,1.0,150.0
+37590.0,100.0,Nefas - Silk Lafto,1.0,150.0
+46958.0,100.0,Nefas - Silk Lafto,1.0,150.0
+66650.0,40.0,Nefas - Silk Lafto,1.0,150.0
+38457.63,100.0,Nefas - Silk Lafto,1.0,150.0
+82500.0,50.0,Nefas - Silk Lafto,1.0,150.0
+47721.21,100.0,Nefas - Silk Lafto,1.0,150.0
+26666.66,75.0,Nefas - Silk Lafto,1.0,150.0
+50199.6,100.0,Nefas - Silk Lafto,1.0,134.0
+72560.0,40.0,Nefas - Silk Lafto,1.0,134.0
+52077.0,80.0,Nefas - Silk Lafto,1.0,134.0
+55000.0,50.0,Nefas - Silk Lafto,1.0,230.0
+40530.0,40.0,Nefas - Silk Lafto,1.0,230.0
+30003.0,51.0,Nefas - Silk Lafto,1.0,230.0
+52133.0,65.0,Nefas - Silk Lafto,1.0,219.0
+37500.0,100.0,Nefas - Silk Lafto,1.0,219.0
+35000.0,80.0,Nefas - Silk Lafto,1.0,219.0
+46680.0,100.0,Nefas - Silk Lafto,1.0,150.0
+21000.0,65.0,Nefas - Silk Lafto,1.0,150.0
+21200.0,40.0,Nefas - Silk Lafto,1.0,150.0
+114640.0,40.0,Nefas - Silk Lafto,1.0,150.0
+71550.0,65.0,Nefas - Silk Lafto,1.0,150.0
+42100.0,100.0,Nefas - Silk Lafto,1.0,150.0
+86668.0,50.0,Nefas - Silk Lafto,1.0,150.0
+42710.6,100.0,Nefas - Silk Lafto,1.0,150.0
+42010.0,70.0,Nefas - Silk Lafto,1.0,150.0
+84440.0,60.0,Nefas - Silk Lafto,1.0,150.0
+81000.0,61.0,Nefas - Silk Lafto,1.0,150.0
+81077.0,42.0,Nefas - Silk Lafto,1.0,150.0
+41555.0,100.0,Nefas - Silk Lafto,1.0,172.0
+39534.88,100.0,Nefas - Silk Lafto,1.0,172.0
+38457.63,100.0,Nefas - Silk Lafto,1.0,172.0
+65023.27,100.0,Nefas - Silk Lafto,1.0,145.0
+56600.0,100.0,Nefas - Silk Lafto,1.0,145.0
+43760.0,100.0,Nefas - Silk Lafto,1.0,145.0
+35703.0,100.0,Nefas - Silk Lafto,1.0,242.0
+34556.0,100.0,Nefas - Silk Lafto,1.0,242.0
+55550.5,40.0,Nefas - Silk Lafto,1.0,242.0
+43460.0,100.0,Nefas - Silk Lafto,1.0,237.0
+42800.0,100.0,Nefas - Silk Lafto,1.0,237.0
+42300.0,100.0,Nefas - Silk Lafto,1.0,237.0
+101111.0,40.0,Nefas - Silk Lafto,1.0,156.0
+46191.0,100.0,Nefas - Silk Lafto,1.0,156.0
+45003.0,100.0,Nefas - Silk Lafto,1.0,156.0
+46678.0,100.0,Nefas - Silk Lafto,1.0,150.0
+55447.0,40.0,Nefas - Silk Lafto,1.0,150.0
+31857.0,100.0,Nefas - Silk Lafto,1.0,150.0
+61120.0,40.0,Nefas - Silk Lafto,1.0,150.0
+43157.0,40.0,Nefas - Silk Lafto,1.0,150.0
+33300.0,50.0,Nefas - Silk Lafto,1.0,150.0
+36000.0,100.0,Nefas - Silk Lafto,1.0,281.0
+40533.0,75.0,Nefas - Silk Lafto,1.0,281.0
+45151.0,40.0,Nefas - Silk Lafto,1.0,281.0
+46876.56,100.0,Nefas - Silk Lafto,1.0,150.0
+41167.0,100.0,Nefas - Silk Lafto,1.0,150.0
+27777.0,100.0,Nefas - Silk Lafto,1.0,150.0
+72350.0,60.0,Nefas - Silk Lafto,1.0,214.0
+48000.5,100.0,Nefas - Silk Lafto,1.0,214.0
+62196.0,70.0,Nefas - Silk Lafto,1.0,214.0
+100150.0,40.0,Nefas - Silk Lafto,1.0,150.0
+45050.0,100.0,Nefas - Silk Lafto,1.0,150.0
+54699.0,40.0,Nefas - Silk Lafto,1.0,150.0
+61150.0,100.0,Nefas - Silk Lafto,1.0,190.0
+65150.0,45.0,Nefas - Silk Lafto,1.0,190.0
+35590.0,100.0,Nefas - Silk Lafto,1.0,190.0
+41170.0,100.0,Nefas - Silk Lafto,1.0,150.0
+38333.33,100.0,Nefas - Silk Lafto,1.0,150.0
+51201.0,50.0,Nefas - Silk Lafto,1.0,150.0
+75200.0,60.0,Nefas - Silk Lafto,1.0,164.0
+46000.0,100.0,Nefas - Silk Lafto,1.0,164.0
+43150.0,100.0,Nefas - Silk Lafto,1.0,164.0
+70800.0,90.0,Nefas - Silk Lafto,1.0,150.0
+43150.0,100.0,Nefas - Silk Lafto,1.0,150.0
+71104.43,60.0,Nefas - Silk Lafto,1.0,150.0
+75663.0,70.0,Nefas - Silk Lafto,1.0,146.0
+50000.0,100.0,Nefas - Silk Lafto,1.0,146.0
+49150.0,85.0,Nefas - Silk Lafto,1.0,146.0
+57900.0,100.0,Nefas - Silk Lafto,1.0,261.0
+52150.0,100.0,Nefas - Silk Lafto,1.0,261.0
+50000.0,100.0,Nefas - Silk Lafto,1.0,261.0
+75340.0,70.0,Nefas - Silk Lafto,1.0,164.0
+55119.21,100.0,Nefas - Silk Lafto,1.0,164.0
+72000.0,40.0,Nefas - Silk Lafto,1.0,164.0
+50120.0,100.0,Nefas - Silk Lafto,1.0,430.0
+65600.0,50.0,Nefas - Silk Lafto,1.0,430.0
+61110.0,51.0,Nefas - Silk Lafto,1.0,430.0
+31270.0,100.0,Nefas - Silk Lafto,1.0,227.0
+31000.0,100.0,Nefas - Silk Lafto,1.0,227.0
+30000.0,100.0,Nefas - Silk Lafto,1.0,227.0
+34000.0,100.0,Nefas - Silk Lafto,1.0,227.0
+21000.0,100.0,Nefas - Silk Lafto,1.0,227.0
+10350.0,100.0,Nefas - Silk Lafto,1.0,227.0
+124200.0,40.0,Nefas - Silk Lafto,1.0,250.0
+41101.0,100.0,Nefas - Silk Lafto,1.0,250.0
+36300.0,100.0,Nefas - Silk Lafto,1.0,250.0
+51199.0,60.0,Nefas - Silk Lafto,1.0,250.0
+21205.0,62.0,Nefas - Silk Lafto,1.0,250.0
+21171.0,40.0,Nefas - Silk Lafto,1.0,250.0
+42200.0,100.0,Nefas - Silk Lafto,1.0,250.0
+37289.3,100.0,Nefas - Silk Lafto,1.0,250.0
+41027.0,80.0,Nefas - Silk Lafto,1.0,250.0
+41101.0,100.0,Nefas - Silk Lafto,1.0,250.0
+61002.4,40.0,Nefas - Silk Lafto,1.0,250.0
+51019.0,60.0,Nefas - Silk Lafto,1.0,250.0
+50000.0,80.0,Nefas - Silk Lafto,1.0,250.0
+39520.3,100.0,Nefas - Silk Lafto,1.0,250.0
+64000.0,65.0,Nefas - Silk Lafto,1.0,250.0
+35800.0,100.0,Nefas - Silk Lafto,1.0,250.0
+31555.0,100.0,Nefas - Silk Lafto,1.0,250.0
+41101.0,100.0,Nefas - Silk Lafto,1.0,250.0
+41050.0,100.0,Nefas - Silk Lafto,1.0,250.0
+38800.0,100.0,Nefas - Silk Lafto,1.0,250.0
+38000.0,100.0,Nefas - Silk Lafto,1.0,250.0
+32618.21,100.0,Nefas - Silk Lafto,1.0,250.0
+36000.0,71.2,Nefas - Silk Lafto,1.0,250.0
+50320.0,100.0,Nefas - Silk Lafto,1.0,250.0
+68444.0,40.0,Nefas - Silk Lafto,1.0,250.0
+33200.0,100.0,Nefas - Silk Lafto,1.0,250.0
+44000.0,100.0,Nefas - Silk Lafto,1.0,250.0
+39230.5,100.0,Nefas - Silk Lafto,1.0,250.0
+50050.0,60.0,Nefas - Silk Lafto,1.0,250.0
+51000.0,51.0,Nefas - Silk Lafto,1.0,250.0
+30120.0,100.0,Nefas - Silk Lafto,1.0,250.0
+26500.0,100.0,Nefas - Silk Lafto,1.0,250.0
+84000.0,100.0,Nefas - Silk Lafto,1.0,250.0
+41101.0,100.0,Nefas - Silk Lafto,1.0,250.0
+63150.0,48.0,Nefas - Silk Lafto,1.0,250.0
+36050.0,100.0,Nefas - Silk Lafto,1.0,250.0
+32000.0,100.0,Nefas - Silk Lafto,1.0,250.0
+27100.0,100.0,Nefas - Silk Lafto,1.0,250.0
+41888.0,46.0,Nefas - Silk Lafto,1.0,240.0
+37100.0,40.0,Nefas - Silk Lafto,1.0,240.0
+31000.0,50.0,Nefas - Silk Lafto,1.0,240.0
