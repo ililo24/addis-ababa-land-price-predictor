@@ -50,7 +50,7 @@ def train_enhanced_model(file_path):
                     'roads_within_0.5km', 'roads_within_1.0km', 'roads_within_2.0km', 
                     'roads_within_3.0km', 'roads_within_4.0km', 'roads_within_5.0km']
     
-    new_num_cols = ['dist_to_meskel_km', 'dist_to_bole_km', 'amenity_diversity_2km', 'dist_to_center']
+    new_num_cols = ['dist_to_meskel_km', 'dist_to_bole_km', 'amenity_diversity_2km', 'dist_to_center', 'elevation', 'slope']
     
     num_cols = old_num_cols + new_num_cols
     cat_cols = ['subcity', 'district', 'neighborhood_cluster']

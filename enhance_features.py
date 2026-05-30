@@ -67,6 +67,84 @@ def calculate_diversity_vectorized(df, radius_m=2000):
         df['amenity_diversity_2km'] = 0
         return df
 
+import requests
+import time
+
+def fetch_elevation_batch(latitudes, longitudes):
+    """
+    Fetch elevation for a batch of coordinates using Open-Meteo API with retries
+    """
+    url = "https://elevation-api.open-meteo.com/v1/elevation"
+    params = {
+        "latitude": ",".join(map(str, latitudes)),
+        "longitude": ",".join(map(str, longitudes))
+    }
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, params=params, timeout=30)
+            if response.status_code == 200:
+                return response.json().get('elevation', [])
+            else:
+                print(f"API Error (Attempt {attempt+1}): {response.status_code}")
+        except Exception as e:
+            print(f"Request failed (Attempt {attempt+1}): {e}")
+        time.sleep(2) # Wait before retry
+    
+    return [0] * len(latitudes)
+
+def add_topography_features(df):
+    print("Fetching Elevation and calculating Slope (batch mode)...")
+    # For each point, we'll fetch its elevation AND the elevation of 4 neighbors
+    # to estimate the slope. Offset of ~30m is approx 0.00027 degrees.
+    offset = 0.00027
+    
+    # Use unique locations to save API calls
+    unique_locs = df[['lat', 'lon']].drop_duplicates().copy()
+    
+    all_lats = []
+    all_lons = []
+    
+    for _, row in unique_locs.iterrows():
+        lat, lon = row['lat'], row['lon']
+        # Point, North, South, East, West
+        all_lats.extend([lat, lat + offset, lat - offset, lat, lat])
+        all_lons.extend([lon, lon, lon, lon + offset, lon - offset])
+    
+    # Fetch in chunks of 50 properties (250 coordinates) to avoid URL length limits
+    batch_size = 250
+    elevations = []
+    print(f"Total coordinates to fetch: {len(all_lats)}")
+    
+    for i in range(0, len(all_lats), batch_size):
+        chunk_lats = all_lats[i:i + batch_size]
+        chunk_lons = all_lons[i:i + batch_size]
+        elevations.extend(fetch_elevation_batch(chunk_lats, chunk_lons))
+        print(f"Fetched {min(i + batch_size, len(all_lats))}/{len(all_lats)} elevations...")
+        time.sleep(0.1) # Respect API
+        
+    # Process elevations back into slope
+    results = []
+    for i in range(0, len(elevations), 5):
+        try:
+            p_elev = elevations[i]
+            n_elev = elevations[i+1]
+            s_elev = elevations[i+2]
+            e_elev = elevations[i+3]
+            w_elev = elevations[i+4]
+            
+            # Max difference in elevation over ~30m distance
+            max_diff = max(abs(n_elev - s_elev), abs(e_elev - w_elev)) / 60.0 # roughly 60m between N-S or E-W
+            slope = np.arctan(max_diff) * (180/np.pi) # Degrees
+            
+            results.append({'lat': all_lats[i], 'lon': all_lons[i], 'elevation': p_elev, 'slope': slope})
+        except:
+            results.append({'lat': all_lats[i], 'lon': all_lons[i], 'elevation': 0, 'slope': 0})
+            
+    topo_df = pd.DataFrame(results)
+    df = df.merge(topo_df, on=['lat', 'lon'], how='left')
+    return df
+
 def enhance_data(file_path):
     print(f"Loading data from {file_path}...")
     df = pd.read_csv(file_path)
@@ -87,6 +165,9 @@ def enhance_data(file_path):
     
     # 3. Amenity Diversity Index
     df = calculate_diversity_vectorized(df)
+    
+    # 4. Topography Features (Elevation and Slope)
+    df = add_topography_features(df)
     
     output_path = file_path.replace('.csv', '_enhanced.csv')
     df.to_csv(output_path, index=False)
